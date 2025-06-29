@@ -15,7 +15,7 @@ This repository contains my solutions to the **Striver A2Z DSA Sheet** – a com
 
 ## 📁 Structure
 
-Each topic is in a separate folder with problem-wise solutions in Python/C++/Java.
+Each topic is in a separate folder with problem-wise solutions in Python.
 
 ## 🚀 Usage
 
